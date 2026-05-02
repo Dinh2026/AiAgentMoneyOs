@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "context7": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@upstash/context7-mcp",
+        "--api-key",
+        "YOUR_API_KEY"
+      ]
+    },
+    "shadcn": {
+      "command": "npx",
+      "args": [
+        "shadcn@latest",
+        "mcp"
+      ]
+    }
+  },
+  "_note": "Install this config in the AI editor MCP location for AI Agent Money OS by Vương Duy Định when MCP servers are needed."
+}

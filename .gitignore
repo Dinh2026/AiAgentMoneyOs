@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+*.log
+
+# Source materials (not part of the agent system)
+12 skills/
+AI Agent Business Kit - Macbook/
